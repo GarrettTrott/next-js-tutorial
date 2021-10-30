@@ -14,7 +14,7 @@ export default function Home() {
         <h1 className="title">
         Read{' '}
           Learn <Link href="/posts/first-post">
-          <a>This Page!</a>
+          <a>This Page!</a> 
           </Link>
         </h1>
 
